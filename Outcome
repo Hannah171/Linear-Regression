@@ -1,0 +1,167 @@
+0.7893419727117827
+Co: 
+ [ 0.13489223  0.98097683 -0.17546151 -0.23512781  0.03175802]
+Interpret: 
+ -1.2667312484144038
+we predict the grade is: 5.622937907567073
+ we have student information: [8 7 2 3 0]
+ The true grade is: 0
+
+we predict the grade is: 9.675928481251857
+ we have student information: [11 10  2  0  0]
+ The true grade is: 10
+
+we predict the grade is: 9.533176127048455
+ we have student information: [ 9 10  2  0  4]
+ The true grade is: 10
+
+we predict the grade is: 8.437500392831776
+ we have student information: [ 8  8  1  0 30]
+ The true grade is: 8
+
+we predict the grade is: 11.876859690968782
+ we have student information: [11 12  1  0  2]
+ The true grade is: 11
+
+we predict the grade is: 12.994042616361028
+ we have student information: [14 13  3  1 12]
+ The true grade is: 13
+
+we predict the grade is: 9.076047948388089
+ we have student information: [11  9  2  0 12]
+ The true grade is: 9
+
+we predict the grade is: 17.001196602690072
+ we have student information: [17 17  4  0  0]
+ The true grade is: 18
+
+we predict the grade is: 4.917658169891653
+ we have student information: [7 6 1 2 0]
+ The true grade is: 0
+
+we predict the grade is: 12.817267234447677
+ we have student information: [12 13  2  0  2]
+ The true grade is: 13
+
+we predict the grade is: 4.036916923603673
+ we have student information: [6 5 1 1 0]
+ The true grade is: 0
+
+we predict the grade is: 12.217386701583909
+ we have student information: [12 12  2  0 14]
+ The true grade is: 12
+
+we predict the grade is: 8.087856325812405
+ we have student information: [6 9 1 1 4]
+ The true grade is: 8
+
+we predict the grade is: 12.753751185572536
+ we have student information: [12 13  2  0  0]
+ The true grade is: 13
+
+we predict the grade is: 14.00451246364083
+ we have student information: [14 14  2  0  0]
+ The true grade is: 14
+
+we predict the grade is: 14.113922044994819
+ we have student information: [16 14  4  0  6]
+ The true grade is: 15
+
+we predict the grade is: 5.546703903686453
+ we have student information: [7 6 1 0 5]
+ The true grade is: 7
+
+we predict the grade is: 7.034857990830604
+ we have student information: [ 9  7  2  0 18]
+ The true grade is: 6
+
+we predict the grade is: 6.490961198849573
+ we have student information: [8 7 1 1 7]
+ The true grade is: 8
+
+we predict the grade is: 14.045081746276548
+ we have student information: [13 14  1  0  0]
+ The true grade is: 14
+
+we predict the grade is: 8.719800681319843
+ we have student information: [8 9 1 0 8]
+ The true grade is: 10
+
+we predict the grade is: 9.299305249422668
+ we have student information: [ 9  9  1  0 22]
+ The true grade is: 9
+
+we predict the grade is: 11.394894199451048
+ we have student information: [10 12  2  1  4]
+ The true grade is: 12
+
+we predict the grade is: 14.819790169312617
+ we have student information: [11 15  1  0  2]
+ The true grade is: 15
+
+we predict the grade is: 7.7617706214446525
+ we have student information: [ 9  8  2  0 10]
+ The true grade is: 8
+
+we predict the grade is: 11.813343642093642
+ we have student information: [11 12  1  0  0]
+ The true grade is: 10
+
+we predict the grade is: 9.365574746662457
+ we have student information: [10 10  3  0  0]
+ The true grade is: 9
+
+we predict the grade is: 8.448113969422986
+ we have student information: [10  9  3  0  2]
+ The true grade is: 8
+
+we predict the grade is: 12.018978426731927
+ we have student information: [11 12  2  0 12]
+ The true grade is: 11
+
+we predict the grade is: 18.427419389370932
+ we have student information: [19 18  3  0  0]
+ The true grade is: 19
+
+we predict the grade is: 12.153870652708768
+ we have student information: [12 12  2  0 12]
+ The true grade is: 11
+
+we predict the grade is: 6.786602752080549
+ we have student information: [ 7  8  2  3 10]
+ The true grade is: 10
+
+we predict the grade is: 10.786836026829388
+ we have student information: [13 11  2  1  3]
+ The true grade is: 11
+
+we predict the grade is: 16.330573511164864
+ we have student information: [18 16  3  0  0]
+ The true grade is: 16
+
+we predict the grade is: -0.6734086838016329
+ we have student information: [7 0 2 0 0]
+ The true grade is: 0
+
+we predict the grade is: 9.230682520685615
+ we have student information: [ 9 10  3  0  0]
+ The true grade is: 0
+
+we predict the grade is: 12.753751185572536
+ we have student information: [12 13  2  0  0]
+ The true grade is: 14
+
+we predict the grade is: 14.154491327630536
+ we have student information: [15 14  3  0  6]
+ The true grade is: 14
+
+we predict the grade is: 7.605890834294673
+ we have student information: [5 9 2 2 6]
+ The true grade is: 7
+
+we predict the grade is: 10.40926166502861
+ we have student information: [13 10  2  1 22]
+ The true grade is: 11
+
+
+Process finished with exit code 0
