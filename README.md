@@ -15,7 +15,8 @@ predict = "G3"
 x = np.array(data.drop([predict],1))
 y = np.array(data[predict])
 
-x_train, x_test, y_train, y_test = sklearn.model_selection.train_test_split(x, y, test_size = 0.1)
+## x first and then y
+x_train, x_test, y_train, y_test = sklearn.model_selection.train_test_split(x, y, test_size = 0.1) 
 
 linear = linear_model.LinearRegression()
 linear.fit(x_train, y_train)
@@ -27,5 +28,6 @@ print('Interpret: \n', linear.intercept_)
 
 predictions = linear.predict(x_test)
 
+## str + str
 for x in range(len(predictions)):
     print('we predict the grade is: ' + str(predictions[x]) + '\n', 'we have student information: ' + str(x_test[x]) + '\n', 'The true grade is: ' + str(y_test[x]) + '\n')
